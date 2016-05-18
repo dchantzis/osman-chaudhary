@@ -29,10 +29,10 @@ Portfolio website of fashion designer Osman Chaudhary.
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](http://dchantzis.github.io/osmanchaudhary/screenshots/screenshot-1.jpg)
+![Image 1](http://osmanchaudhary.nfshost.com/screenshots/screenshot-1.jpg)
 
-![Image 2](http://dchantzis.github.io/osmanchaudhary/screenshots/screenshot-2.jpg)
+![Image 2](http://osmanchaudhary.nfshost.com/screenshots/screenshot-2.jpg)
 
-![Image 3](http://dchantzis.github.io/osmanchaudhary/screenshots/screenshot-3.jpg)
+![Image 3](http://osmanchaudhary.nfshost.com/screenshots/screenshot-3.jpg)
 
-![Image 4](http://dchantzis.github.io/osmanchaudhary/screenshots/screenshot-4.jpg)
+![Image 4](http://osmanchaudhary.nfshost.com/screenshots/screenshot-4.jpg)
