@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-size: 85%;
+	font-family: Helvetica;
+	color: #000000;
+}
+
+#wrapper
+{
+	margin: 50px auto 0 auto;
+	max-width: 1100px;
+}
+
+#sidebar
+{
+	position: relative;
+	top: 370px;
+	left: 27px;
+	background-color:#ffffff;
+	width: 280px;
+
+	float: left;
+}
+
+
+#navi_prime
+{
+	margin-bottom: 20px;
+	font-size: 0.95em;
+}
+#navi_prime li
+{
+	margin-bottom: 7px;
+	text-transform: uppercase;
+}
+#navi_prime li a
+{
+	background-color:#ffffff;
+}
+
+.navi_sec
+{
+	font-size: 0.9em;
+	text-transform: capitalize;
+	width: 190px;
+}
+.navi_sec li
+{
+	margin-top: 7px;
+}
+
+.navi_sec a
+{
+	background-color: #ffffff;
+}
+
+#navi_sec_work
+{
+	position: absolute;
+	bottom: 96px;
+	left: 41px;
+	padding-left: 55px;
+}
+
+#navi_sec_styling
+{
+	position: absolute;
+	bottom: 78px;
+	left: 57px;
+	padding-left: 55px;
+}
+
+#navi_sec_selectedworks
+{
+	position: absolute;
+	bottom: 57px;
+	left: 123px;
+	padding-left: 55px;
+}
+
+
+#logo
+{
+	font-family: Arial;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+#logo span
+{
+	font-weight: bold;
+}
+
+#content
+{
+	position: relative;
+	top: 0px;
+	left: 400px;
+	width: 440px;
+	float: left;
+}
+
+.index #content
+{
+	left: -50px;
+}
+
+.index #content img
+{
+	/*width:100%;*/
+	max-width: 748px;
+}
+
+.styling #content
+{
+}
+
+#gallery_florianschmidt
+{
+	position: relative;
+	top: 320px;
+}
+
+#gallery_markushennemann
+{
+	position: relative;
+	top: 100px;	
+}
+
+.styling .gallery
+{
+}
+
+.styling #image_thumbs
+{
+	width: 440px;
+	margin-right: 5%;
+	float:right;
+}
+.styling #image_thumbs li
+{
+	float:right;
+	margin: 3px 0 0 5px;
+}
+.styling #image_thumbs li a
+{
+	cursor: default;
+}
+
+
+
+.bio #content
+{
+}
+
+.bio #biography
+{
+	/*width: 363px; font-size: 0.9em;*/
+	/*width: 353px;*/
+	width:410px;
+	color: #767676;
+	line-height: 19px;
+	font-size: 0.9em;
+	padding-right: 5%;
+}
+
+.bio #content #biography div
+{
+	margin-top: 23px;
+}
+
+a
+{
+	color: #000000;
+	text-decoration:none;
+}
+
+a:hover,
+a:active.
+a:focus
+{
+	color: #000000;
+}
+
+.displaynone
+{
+	display: none;
+}
+.clearboth
+{
+	clear:both;
+}
+.visibilityhidden
+{
+	visibility: hidden;
+}
+#footer
+{
+	margin: 0px 0 0px 0;
+	heigth: 50px;
+	line-height: 50px;
+	display: block;
+}

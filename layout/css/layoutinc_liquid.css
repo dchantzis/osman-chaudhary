@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-size: 85%;
+	font-family: Helvetica;
+	color: #000000;
+}
+
+#wrapper
+{
+	margin: 0 auto 0 auto;
+	width: 1100px;
+	min-width: 500px;
+	/*min-height: 700px;
+	border:1px solid #000;*/
+}
+
+#sidebar
+{
+	position: absolute;
+	bottom: 9.333333333333%;/*bottom: 9.333333333333%;*/
+	left: 2.416666666667%;
+	background-color:#ffffff;
+	z-index: +1;
+}
+
+
+#navi_prime
+{
+	position: absolute;
+	bottom: 27px;
+	font-size: 0.95em;
+}
+#navi_prime li
+{
+	margin-bottom: 7px;
+	text-transform: uppercase;
+}
+#navi_prime li a
+{
+	background-color:#ffffff;
+}
+
+.navi_sec
+{
+	font-size: 0.9em;
+	text-transform: capitalize;
+	width: 190px;
+}
+.navi_sec li
+{
+	margin-top: 7px;
+}
+
+.navi_sec a
+{
+	background-color: #ffffff;
+}
+
+#navi_sec_work
+{
+	position: absolute;
+	bottom: 94px;
+	left: 41px;
+	padding-left: 55px;
+}
+
+#navi_sec_styling
+{
+	position: absolute;
+	bottom: 75px;
+	left: 57px;
+	padding-left: 55px;
+}
+
+#navi_sec_selectedworks
+{
+	position: absolute;
+	bottom: 54px;
+	left: 123px;
+	padding-left: 55px;
+}
+
+
+#logo
+{
+	font-family: Arial;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+#logo span
+{
+	font-weight: bold;
+}
+
+.index #content
+{
+	position: relative;
+	/*margin-top: 6.333333333333%;*/
+	margin-top: 7.333333333333%;
+	margin-left: 18.833333333333%;
+	width: 62.333333333333%;
+}
+
+.index #content img
+{
+	/*width:100%;*/
+	max-width: 748px;
+}
+
+.styling #content
+{
+	position: absolute;
+	left: 62.416666666667%;
+	bottom: 9.333333333333%;
+}
+
+.styling #gallery
+{
+}
+
+.styling #image_thumbs
+{
+	width: 440px;
+	margin-right: 5%;
+	float:right;
+}
+.styling #image_thumbs li
+{
+	float:right;
+	margin: 3px 0 0 5px;
+}
+.styling #image_thumbs li a
+{
+	cursor: default;
+}
+
+#content
+{
+	z-index: -1;
+}
+
+.bio #content
+{
+	position: absolute;
+	/*left: 58.416666666667%;*/
+	/*left: 63.416666666667%;*/
+	/*left: 59.416666666667%;*/
+	left: 61.416666666667%;
+	bottom: 9.333333333333%;
+	/*bottom: 7.333333333333%;*/
+}
+
+.bio #biography
+{
+	/*width: 363px; font-size: 0.9em;*/
+	/*width: 353px;*/
+	width:430px;
+	color: #767676;
+	line-height: 19px;
+	font-size: 0.9em;
+	padding-right: 5%;
+}
+
+.bio #content #biography div
+{
+	margin-top: 23px;
+}
+
+a
+{
+	color: #000000;
+	text-decoration:none;
+}
+
+a:hover,
+a:active.
+a:focus
+{
+	color: #000000;
+}
+
+.displaynone
+{
+	display: none;
+}
+.clearboth
+{
+	clear:both;
+}
